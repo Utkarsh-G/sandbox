@@ -3,3 +3,13 @@ Add this whole file. Let's not be boverred.
 Sneaky ninja changes!
 
 And, of course, the second set of changes.
+
+Next up, I'm going to write a bunch of lines. *
+
+But I only want the line without the * to be added. *
+
+This is the line that should be added.
+
+Nothing else. *
+
+Maybe I couldn't add anything else. But at least, I'm adding this.
