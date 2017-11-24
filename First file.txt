@@ -13,3 +13,5 @@ This is the line that should be added.
 Nothing else. *
 
 Maybe I couldn't add anything else. But at least, I'm adding this.
+
+Making changes on OSX.
